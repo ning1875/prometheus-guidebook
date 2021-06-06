@@ -1,0 +1,18 @@
+[Unit]
+Description="M3DB Timeseries Database"
+Documentation=https://docs.m3db.io/
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/opt/app/m3db/m3dbnode -f /opt/app/m3db/m3dbnode_single.yaml
+Restart=on-failure
+SuccessExitStatus=0
+
+# May not be honored if higher than kernel limit (sysctl fs.file-max) or process
+# limit (sysctl fs.nr_open). Also may not be honored if lower than systemd limit
+# (system.conf) or systemd user limit (user.conf).
+LimitNOFILE=3000000
+
+[Install]
+WantedBy=multi-user.target

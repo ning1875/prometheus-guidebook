@@ -1,0 +1,11 @@
+global:
+  scrape_interval:     15s # Set the scrape interval to every 15 seconds. Default is every 1 minute.
+  evaluation_interval: 15s # Evaluate rules every 15 seconds. The default is every 1 minute.
+  query_log_file: /opt/logs/prometheus_query_log
+
+
+remote_read:
+  - url: "http://192.168.0.106:9090/api/v1/read"
+    read_recent: true
+  - url: "http://192.168.0.107:9090/api/v1/read"
+    read_recent: true

@@ -1,0 +1,21 @@
+[Unit]
+Description="m_query"
+Documentation=https://m_query.io/
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/opt/app/m_query/prometheus  --config.file=/opt/app/m_query/prometheus.yml --storage.tsdb.path=/opt/app/m_query/data --web.enable-lifecycle --web.listen-address=0.0.0.0:8090
+
+Restart=on-failure
+RestartSecs=5s
+SuccessExitStatus=0
+LimitNOFILE=65536
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=m_query
+
+
+[Install]
+WantedBy=multi-user.target
+

@@ -1,0 +1,15 @@
+global:
+  scrape_interval:     15s # Set the scrape interval to every 15 seconds. Default is every 1 minute.
+  evaluation_interval: 15s # Evaluate rules every 15 seconds. The default is every 1 minute.
+  query_log_file: /opt/logs/prometheus_query_log
+
+
+
+scrape_configs:
+  - job_name: node_exporter
+    honor_timestamps: true
+    scrape_interval: 15s
+    scrape_timeout: 10s
+    static_configs:
+    - targets:
+      - localhost:9100
