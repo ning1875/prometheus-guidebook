@@ -88,6 +88,11 @@ data:
         ca_file: /var/run/secrets/kubernetes.io/serviceaccount/ca.crt
         insecure_skip_verify: true
       relabel_configs:
+      - action: replace
+        regex: (.+)
+        source_labels:
+        - __meta_kubernetes_node_label_kubernetes_io_hostname
+        target_label: node
       - separator: ;
         regex: __meta_kubernetes_node_label_(.+)
         replacement: $1

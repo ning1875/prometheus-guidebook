@@ -79,7 +79,91 @@ curl  https://localhost:6443/metrics --header "Authorization: Bearer $TOKEN" --i
 
 ```
 
+## k8s组件访问鉴权问题 
+- prometheus通过 sa,clusterrolebinding来解决token、证书挂载问题
+> sa等配置： prometheus yaml中需要配置对应的saserviceAccountName
+```yaml
+apiVersion: rbac.authorization.k8s.io/v1 # api的version
+kind: ClusterRole # 类型
+metadata:
+  name: prometheus
+rules:
+- apiGroups: [""]
+  resources: # 资源
+  - nodes
+  - nodes/proxy
+  - services
+  - endpoints
+  - pods
+  verbs: ["get", "list", "watch"] 
+- apiGroups:
+  - extensions
+  resources:
+  - ingresses
+  verbs: ["get", "list", "watch"]
+- nonResourceURLs: ["/metrics"]
+  verbs: ["get"]
+---
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  name: prometheus # 自定义名字
+  namespace: kube-system # 命名空间
+---
+apiVersion: rbac.authorization.k8s.io/v1
+kind: ClusterRoleBinding
+metadata:
+  name: prometheus
+roleRef: # 选择需要绑定的Role
+  apiGroup: rbac.authorization.k8s.io
+  kind: ClusterRole
+  name: cluster-admin
+subjects: # 对象
+- kind: ServiceAccount
+  name: prometheus
+  namespace: kube-system
+
+```
+> 配置好之后 k8s会将对应文件挂载到pod中
+```shell script
+/ # ls /var/run/secrets/kubernetes.io/serviceaccount/ -l
+total 0
+lrwxrwxrwx    1 root     root            13 Jan  7 20:54 ca.crt -> ..data/ca.crt
+lrwxrwxrwx    1 root     root            16 Jan  7 20:54 namespace -> ..data/namespace
+lrwxrwxrwx    1 root     root            12 Jan  7 20:54 token -> ..data/token
+/ # df -h |grep service
+tmpfs                     7.8G     12.0K      7.8G   0% /var/run/secrets/kubernetes.io/serviceaccount
+/ # 
+
+```
+### 手动curl访问
+- 配置TOKEN
+```shell
+TOKEN=$(kubectl -n kube-system  get secret $(kubectl -n kube-system  get serviceaccount prometheus -o jsonpath='{.secrets[0].name}') -o jsonpath='{.data.token}' | base64 --decode )
+```
+- 访问对应接口，如apiserver
+```shell
+   curl  https://localhost:6443/metrics --header "Authorization: Bearer $TOKEN" --insecure     |head
+      % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                     Dload  Upload   Total   Spent    Left  Speed
+      0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0# HELP apiserver_audit_event_total [ALPHA] Counter of audit events generated and sent to the audit backend.
+    # TYPE apiserver_audit_event_total counter
+    apiserver_audit_event_total 0
+    # HELP apiserver_audit_requests_rejected_total [ALPHA] Counter of apiserver requests rejected due to an error in audit logging backend.
+    # TYPE apiserver_audit_requests_rejected_total counter
+    apiserver_audit_requests_rejected_total 0
+    # HELP apiserver_client_certificate_expiration_seconds [ALPHA] Distribution of the remaining lifetime on the certificate used to authenticate a request.
+    # TYPE apiserver_client_certificate_expiration_seconds histogram
+    apiserver_client_certificate_expiration_seconds_bucket{le="0"} 0
+    apiserver_client_certificate_expiration_seconds_bucket{le="1800"} 0
+    100 36590    0 36590    0     0   194k      0 --:--:-- --:--:-- --:--:--  195k
+
+```
+    
+
 ## 容器基础资源指标
+- 大盘模板 https://grafana.com/grafana/dashboards/13105
+
 
 ```yaml
 - job_name: kubernetes-nodes-cadvisor
@@ -137,7 +221,9 @@ curl  https://localhost:6443/metrics --header "Authorization: Bearer $TOKEN" --i
 ```
 
 
+
 ## k8s对象资源指标
+- grafana 大盘 https://grafana.com/grafana/dashboards/13332
 
 > prometheus 采集配置
 
@@ -194,7 +280,7 @@ spec:
 ```shell
 / # cat /etc/resolv.conf 
 nameserver 10.96.0.10
-search kube-admin.svc.cluster.local svc.cluster.local cluster.local
+search kube-system.svc.cluster.local svc.cluster.local cluster.local
 options ndots:5
 
 ``` 
@@ -202,6 +288,7 @@ options ndots:5
 
 
 ## k8s服务组件指标
+- apiserver大盘 https://grafana.com/grafana/dashboards/12006
 
 >  apiserver prometheus 采集配置其中 etcd集成在apiserver中了
 >  kube-controler coredns kube-scheduler等同理
