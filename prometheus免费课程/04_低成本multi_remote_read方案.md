@@ -1,7 +1,7 @@
 # 文章地址
 - https://zhuanlan.zhihu.com/p/368868988
 # 架构图
-![image](./pic/multi_remote_read.jpg)
+![image](../pic/multi_remote_read.jpg)
 
 ## multi_remote_read 
 > 如果我们配置了多个remote_read 接口的话即可实现 multi

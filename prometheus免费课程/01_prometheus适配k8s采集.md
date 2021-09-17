@@ -1,5 +1,5 @@
 # k8s架构图
-![image](./pic/k8s.png)
+![image](../pic/k8s.png)
 
 # 准备工作
 ## 使用kubeadm 部署k8集群
@@ -24,7 +24,7 @@ kubectl apply -f prome_k8s_all_pod/
 访问node节点的8091端口 如 http://192.168.0.110:8091/targets
 出现下面的target页面并且大部分up为正常
 ```
-![image](./pic/p_target.png)
+![image](../pic/p_target.png)
 
 
 ## 在k8s中部署grafana
@@ -52,9 +52,9 @@ k8s中组件复杂，我们主要专注的无外乎四大块指标：容器基�
 
 指标类型 | 采集源 | 应用举例  |发现类型| grafana截图
 |  ----  | ----  | ---- | ---- | ---- |
-容器基础资源指标 | kubelet 内置cadvisor metrics接口 | 查看容器cpu、mem利用率等 |k8s_sd node级别直接访问node_ip|  ![image](./pic/k8s_node.png) |
-k8s资源指标 | [kube-stats-metrics](https://github.com/kubernetes/kube-state-metrics) (简称ksm) | 具体可以看<br> 看pod状态如pod waiting状态的原因 <br> 数个数如：查看node pod按namespace分布情况 |通过coredns访问域名| ![image](./pic/k8s_obj.png) | 
-k8s服务组件指标| 服务组件 metrics接口 | 查看apiserver 、scheduler、etc、coredns请求延迟等 | k8s_sd endpoint级别 | ![image](./pic/k8s_server.png) |
+容器基础资源指标 | kubelet 内置cadvisor metrics接口 | 查看容器cpu、mem利用率等 |k8s_sd node级别直接访问node_ip|  ![image](../pic/k8s_node.png) |
+k8s资源指标 | [kube-stats-metrics](https://github.com/kubernetes/kube-state-metrics) (简称ksm) | 具体可以看<br> 看pod状态如pod waiting状态的原因 <br> 数个数如：查看node pod按namespace分布情况 |通过coredns访问域名| ![image](../pic/k8s_obj.png) | 
+k8s服务组件指标| 服务组件 metrics接口 | 查看apiserver 、scheduler、etc、coredns请求延迟等 | k8s_sd endpoint级别 | ![image](../pic/k8s_server.png) |
 部署在pod中业务埋点指标| pod 的metrics接口 |  依据业务指标场景 | k8s_sd pod级别，访问pod ip的metricspath |
 
 
