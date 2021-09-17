@@ -1,6 +1,9 @@
 # 这一切的一切仅在这里
 - [kube-prometheus和prometheus-operator史诗级教程](https://ke.qq.com/course/3912017?tuin=361e95b0)
 
+# prometheus-guidebook git仓库地址
+- [guidebook仓库地址](https://github.com/ning1875/prometheus-guidebook)
+
 # kube-prometheus解决了哪些问题
 ![image](./kube_pic/6.png)
 - 一键化部署k8s-prometheus中的所有组件
