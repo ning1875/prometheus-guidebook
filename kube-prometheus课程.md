@@ -1,3 +1,16 @@
+
+
+# kube-prometheus项目理解起来有难度，需要你对k8s和prometheus有较深的理解。本课程内容如下
+
+- 内置的k8s采集任务都采集了什么指标，应用了哪些prometheus技术
+- 内置的grafana-dashboard看图都包含什么图表，动态dashboard怎么做的
+- 专家级别的promql怎么写的
+- apiserver6层slo预聚合到底怎么做的
+- 为什么要加着一层kube-rbac-proxy代理
+- 怎样把我的golang代表打包部署到k8s中，暴露metrics，使用prometheus基础的pod_sd采集
+- 怎样把我自定义的指标应用到prometheus-operator中
+kube-prometheus和prometheus-operator实战和原理介绍 ，课程地址https://ke.qq.com/course/3912017?tuin=361e95b0
+
 # 这一切的一切仅在这里
 - [kube-prometheus和prometheus-operator史诗级教程](https://ke.qq.com/course/3912017?tuin=361e95b0)
 
