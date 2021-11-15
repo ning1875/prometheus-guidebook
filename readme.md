@@ -1,3 +1,7 @@
+# k8s教程说明
+- [k8s底层原理和源码讲解之精华篇](https://ke.qq.com/course/4093533)
+
+
 # 项目说明
 > prometheus全组件的教程
 
