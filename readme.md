@@ -1,5 +1,8 @@
 # k8s教程说明
 - [k8s底层原理和源码讲解之精华篇](https://ke.qq.com/course/4093533)
+- [k8s底层原理和源码讲解之进阶篇](https://ke.qq.com/course/4236389)
+
+
 
 
 # 项目说明
@@ -8,7 +11,7 @@
 - [01_prometheus全组件配置使用、底层原理解析、高可用实战](https://ke.qq.com/course/3549215?tuin=361e95b0)
 - [02_prometheus-thanos使用和源码解读](https://ke.qq.com/course/3883439?tuin=361e95b0)
 - [03_kube-prometheus和prometheus-operator实战和原理介绍](https://ke.qq.com/course/3912017?tuin=361e95b0)
-
+- [04_prometheus源码讲解和二次开发](https://ke.qq.com/course/4236995?tuin=361e95b0)
 
 
 > 关于白嫖和付费
