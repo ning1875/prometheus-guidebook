@@ -10,6 +10,7 @@
 | [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599) | [模块02 服务树echarts资产统计](https://www.bilibili.com/video/BV1sj41187tQ/)         | 	     |  
 | [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599) | [模块03 工单审批流和表单设计器](https://www.bilibili.com/video/BV1V8411y7Aw/)          | 	     |  
 
+> 掌握最新的运维开发技术
 
 
 # 运维目前3大核心方向 想成为和我一样的专家么 经验分享给你
