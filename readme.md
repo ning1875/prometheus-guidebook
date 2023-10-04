@@ -1,4 +1,19 @@
-`# 运维目前3大核心方向 想成为和我一样的专家么 经验分享给你
+# 最新重磅课程 [持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控
+> 总目标 1000集，掌握运维平台开发不再是梦 
+> 工单模块火热开发中，购买完之后拉群
+> 发最新前后端代码，
+
+| 学习方向                                                                 | 分析进阶视频                                                                      | 备注  | 
+|----------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------|
+| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599) | [模块01 基础底座](https://www.bilibili.com/video/BV16F411r7aP/)                   | 	     |  
+| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599) | [模块02 服务树和cmdb 解绑ecs资源 - 1of3](https://www.bilibili.com/video/BV1wK4y1w7b6/) | 	     |  
+| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599) | [模块02 服务树echarts资产统计](https://www.bilibili.com/video/BV1sj41187tQ/)         | 	     |  
+| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599) | [模块03 工单审批流和表单设计器](https://www.bilibili.com/video/BV1V8411y7Aw/)          | 	     |  
+
+
+
+# 运维目前3大核心方向 想成为和我一样的专家么 经验分享给你
+
 
 # 目前运维的3个火热的方向 : k8s、监控、cicd
 
@@ -28,9 +43,9 @@
 
 - ![image](https://image-static.segmentfault.com/115/153/1151536963-632a88d003f92_fix732)
 
-### [k8s零基础入门课程链接](https://ke.qq.com/course/5829699)
+### [k8s零基础入门课程链接](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3594912111454759880&origin_type=604)
 
-- [k8s零基础入门课程链接](https://ke.qq.com/course/5829699)
+- [k8s零基础入门课程链接](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3594912111454759880&origin_type=604)
 
 ### 大致包含下面几部分
 
@@ -48,7 +63,7 @@
 
 | 学习方向                                                                 | 分析进阶视频        | 备注  | 
 |----------------------------------------------------------------------|---------|-----------|
-| [01_tekton全流水线实战和pipeline运行原理源码解读](https://ke.qq.com/course/5458555) | [地址](https://www.bilibili.com/video/BV13P4y1Z7Xv/)  | 	     |  
+| [01_tekton全流水线实战和pipeline运行原理源码解读](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3595279771367522483&origin_type=604) | [地址](https://www.bilibili.com/video/BV13P4y1Z7Xv/)  | 	     |  
 
 - ![image](https://segmentfault.com/img/bVc2zuK)
 
@@ -60,11 +75,11 @@
 
 | 学习方向                                                                              | 分析进阶视频  | 备注  | 
 |-----------------------------------------------------------------------------------|---------|-----|
-| [01_prometheus零基础入门，grafana基础操作，主流exporter采集配置](https://ke.qq.com/course/5826832) | [地址](https://www.bilibili.com/video/BV1814y1e73y/)  | 	    |     |  
-| [02_prometheus全组件配置使用、底层原理解析、高可用实战](https://ke.qq.com/course/3549215)             | [地址](https://www.bilibili.com/video/BV1oZ4y1f7au/)  |      |  
-| [03_kube-prometheus和prometheus-operator实战和原理介绍](https://ke.qq.com/course/3912017) | [地址](https://www.bilibili.com/video/BV1LR4y1L7jV/)  | 	 |  
-| [04_prometheus-thanos使用和源码解读](https://ke.qq.com/course/3883439)                   | [地址](https://www.bilibili.com/video/BV1814y1e73y/)  | 	   |  
-| [05_prometheus源码讲解和二次开发](https://ke.qq.com/course/4236995)                        | [地址](https://www.bilibili.com/video/BV1hS4y1m73Q/)  | 	    |  
+| [01_prometheus零基础入门，grafana基础操作，主流exporter采集配置](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3595279771367522483&origin_type=604) | [地址](https://www.bilibili.com/video/BV1814y1e73y/)  | 	    |     |  
+| [02_prometheus全组件配置使用、底层原理解析、高可用实战](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3598138690670622282&origin_type=604)             | [地址](https://www.bilibili.com/video/BV1oZ4y1f7au/)  |      |  
+| [03_kube-prometheus和prometheus-operator实战和原理介绍](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3597588013493936532&origin_type=604) | [地址](https://www.bilibili.com/video/BV1LR4y1L7jV/)  | 	 |  
+| [04_prometheus-thanos使用和源码解读](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3597591765223345001&origin_type=604)                   | [地址](https://www.bilibili.com/video/BV1814y1e73y/)  | 	   |  
+| [05_prometheus源码讲解和二次开发](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3594913505213599660&origin_type=604)                        | [地址](https://www.bilibili.com/video/BV1hS4y1m73Q/)  | 	    |  
 | [06_prometheus监控k8s的实战配置和原理讲解，写go项目暴露业务指标](https://ke.qq.com/course/5837369)                        | [地址](https://www.bilibili.com/video/BV1mW4y1Y7AU/)  | 	    |  
 
 
@@ -75,11 +90,12 @@
 
 ### golang运维开发之从0基础到运维平台
 
-| 学习方向                                              | 分析进阶视频  | 备注   | 
-|---------------------------------------------------|---------|------|
-| [01_golang基础课程](https://ke.qq.com/course/4334898) | [地址](https://www.bilibili.com/video/BV1WT411M7Gh/)  |      |  
-| [02_golang运维平台实战，服务树,日志监控，任务执行，分布式探测](https://ke.qq.com/course/4334675)             | [地址](https://www.bilibili.com/video/BV14T4y1k7oo)  |      |  
-| [03_golang运维开发实战课程之k8s巡检平台](https://ke.qq.com/course/5818923)                       | [地址](https://www.bilibili.com/video/BV1Ad4y1r7C4/)  |      |  
+| 学习方向                                                                                                                                          | 分析进阶视频  | 备注   | 
+|-----------------------------------------------------------------------------------------------------------------------------------------------|---------|------|
+| [01_golang基础课程](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3598136416477008227&origin_type=604)                       | [地址](https://www.bilibili.com/video/BV1WT411M7Gh/)  |      |  
+| [02_golang运维平台实战，服务树,日志监控，任务执行，分布式探测](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3598136543119864780&origin_type=604) | [地址](https://www.bilibili.com/video/BV14T4y1k7oo)  |      |  
+| [03_golang运维开发实战课程之k8s巡检平台](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3595143953697090709&origin_type=604)           | [地址](https://www.bilibili.com/video/BV1Ad4y1r7C4/)  |      |  
+| [04_golang实战开发课程之pipeline流水线工具](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3614475679007175557&origin_type=604)           | [地址](https://www.bilibili.com/video/BV1Ad4y1r7C4/)  |      |  
 
 ## 有了go基础之后就可以 畅快的阅读k8s源码
 
@@ -87,31 +103,33 @@
 
 - ![image](https://segmentfault.com/img/bVc2zvA)
 
-| 学习方向                                              | 分析进阶视频  | 备注  | 
-|---------------------------------------------------|---------|-----|
-| [01_k8s零基础入门实战](https://ke.qq.com/course/5829699) | [地址](https://www.bilibili.com/video/BV1Mt4y1P7bL/)  |       |  
-| [02_k8s纯源码解读课程，助力你变成k8s专家](https://ke.qq.com/course/4697341)                          | [地址](https://www.bilibili.com/video/BV1or4y1877p/)  |       |  
-| [03_k8s底层原理和源码讲解之精华篇](https://ke.qq.com/course/4093533)                              | [地址](https://www.bilibili.com/video/BV1T34y127gU/)  |       |  
-| [04_k8s底层原理和源码讲解之进阶篇](https://ke.qq.com/course/4236389)                              | [地址](https://www.bilibili.com/video/BV1si4y1f7Xo/)  |     |  
+| 学习方向                                                                                                                                         | 分析进阶视频  | 备注  | 
+|----------------------------------------------------------------------------------------------------------------------------------------------|---------|-----|
+| [01_k8s零基础入门实战](https://ke.qq.com/course/5829699)                                                                                            | [地址](https://www.bilibili.com/video/BV1Mt4y1P7bL/)  |       |  
+| [02_k8s全组件源码讲解和底层原理分析三合一 助力你成为k8s专家](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3595279694125268143&origin_type=604) | [地址](https://www.bilibili.com/video/BV1or4y1877p/)  |       |  
+| [03_k8s节点宕机pod检测工具和k8s探针代码解读](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3617798475296701560&origin_type=604) | [地址](https://www.bilibili.com/video/BV1or4y1877p/)  |       |  
 
 - ![image](https://segmentfault.com/img/bVc2zvh)
 
 ## 有了k8s源码的基础的你，这时候开始摩拳擦掌 想做一些k8s开发工作了
 
+
 ### k8s 开发篇
 
 | 学习方向                                                                            | 分析进阶视频  | 备注  | 
 |---------------------------------------------------------------------------------|---------|------------|
-| [01_k8s运维大师课程](https://ke.qq.com/course/5586848)                                | [地址](https://www.bilibili.com/video/BV11B4y1k7LB/)  |     |  
-| [02_k8s-operator和crd实战开发 助你成为k8s专家](https://ke.qq.com/course/5458555)           | [地址](https://www.bilibili.com/video/BV1cv4y1371X/)  |         |  
-| [03_k8s二次开发之基于真实负载的调度器](https://ke.qq.com/course/5814034)                       | [地址](https://www.bilibili.com/video/BV1qB4y1G7Kf/)  |       |  
-| [04_go运维开发实战之k8s多集群自动守卫自愈组件k8s-cluster-guard](https://ke.qq.com/course/5925095) | [地址](https://www.bilibili.com/video/BV1QV4y1g7za/)  |       |  
-| [05_k8s管理运维平台实战前端vue后端golang](https://ke.qq.com/course/5856444)                 | [地址](https://www.bilibili.com/video/BV1QV4y1g7za/)  |       |  
-| [06_k8s中的网络探测吧，作为写golang的一个小的实战项目](https://ke.qq.com/course/5860635)                 | [地址](https://www.bilibili.com/video/BV1mt4y1K71G/)  |       |  
+| [01_k8s运维大师课程](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3598135830213973305&origin_type=604)                                | [地址](https://www.bilibili.com/video/BV11B4y1k7LB/)  |     |  
+| [02_k8s-operator和crd实战开发 助你成为k8s专家](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3595280078524815572&origin_type=604)           | [地址](https://www.bilibili.com/video/BV1cv4y1371X/)  |         |  
+| [03_k8s二次开发之基于真实负载的调度器](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3595143844292868583&origin_type=604)                       | [地址](https://www.bilibili.com/video/BV1qB4y1G7Kf/)  |       |  
+| [04_go运维开发实战之k8s多集群自动守卫自愈组件k8s-cluster-guard](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3594937597765513838&origin_type=604) | [地址](https://www.bilibili.com/video/BV1QV4y1g7za/)  |       |  
+| [05_k8s管理运维平台实战前端vue后端golang](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3596266896661552169&origin_type=604)                 | [地址](https://www.bilibili.com/video/BV1QV4y1g7za/)  |       |  
+| [06_k8s中的网络探测吧，作为写golang的一个小的实战项目](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3594920679889365281&origin_type=604)                 | [地址](https://www.bilibili.com/video/BV1mt4y1K71G/)  |       |  
 
 ### k8s调优
-- [01_k8s集群调优小课程](https://ke.qq.com/course/5877885)
-- [02_k8s运维大师课程](https://ke.qq.com/course/5586848)
+- [01_k8s集群调优小课程](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3594756712952942291&origin_type=604)
+- [02_k8s运维大师课程](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3598135830213973305&origin_type=604)
+
+# [面试题 k8s和golang面试真题解析 运维开发面试经验分享 linux运维进阶 ](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3600844212968499216&origin_type=604) 
 
 
 - ![image](https://segmentfault.com/img/bVc2zt4)
@@ -123,32 +141,30 @@
 
 # 零基础学习路线：
 - 先golang零基础 [01_golang基础课程](https://ke.qq.com/course/4334898)
-- 再k8s零基础 [01_k8s零基础入门实战](https://ke.qq.com/course/5829699)
-- 再prometheus零基础 [01_k8s零基础入门实战](https://ke.qq.com/course/5829699)
-- 再k8s中的网络探测吧，作为写golang的一个小的实战项目 [06_k8s中的网络探测吧，作为写golang的一个小的实战项目](https://ke.qq.com/course/5860635)
-- 再k8s调优 [01_k8s集群调优小课程](https://ke.qq.com/course/5877885)
+- 再k8s零基础 [k8s零基础入门课程链接](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3594912111454759880&origin_type=604)
+- 再prometheus零基础  [01_prometheus零基础入门，grafana基础操作，主流exporter采集配置](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3595279771367522483&origin_type=604)
+- 再k8s中的网络探测吧，作为写golang的一个小的实战项目 [06_k8s中的网络探测吧，作为写golang的一个小的实战项目](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3594920679889365281&origin_type=604)
+- 再k8s调优 [01_k8s集群调优小课程](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3594756712952942291&origin_type=604)
 - 再  [06_prometheus监控k8s的实战配置和原理讲解，写go项目暴露业务指标](https://ke.qq.com/course/5837369)
-- 再  [03_golang运维开发实战课程之k8s巡检平台](https://ke.qq.com/course/5818923)
-- 再 [02_k8s纯源码解读课程，助力你变成k8s专家](https://ke.qq.com/course/4697341)
-- 再 [03_k8s底层原理和源码讲解之精华篇](https://ke.qq.com/course/4093533)
-- 再 [04_k8s底层原理和源码讲解之进阶篇](https://ke.qq.com/course/4236389)
+- 再  [03_golang运维开发实战课程之k8s巡检平台](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3595143953697090709&origin_type=604)
+- 再 [02_k8s纯源码解读课程，助力你变成k8s专家](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3595279694125268143&origin_type=604)
 > 最后再 做k8s中的二次开发
-- [01_k8s运维大师课程](https://ke.qq.com/course/5586848)                                | [地址](https://www.bilibili.com/video/BV11B4y1k7LB/)  |     |
-- [02_k8s-operator和crd实战开发 助你成为k8s专家](https://ke.qq.com/course/5458555)           | [地址](https://www.bilibili.com/video/BV1cv4y1371X/)  |         |
-- [03_k8s二次开发之基于真实负载的调度器](https://ke.qq.com/course/5814034)                       | [地址](https://www.bilibili.com/video/BV1qB4y1G7Kf/)  |       |
-- [04_go运维开发实战之k8s多集群自动守卫自愈组件k8s-cluster-guard](https://ke.qq.com/course/5925095) | [地址](https://www.bilibili.com/video/BV1QV4y1g7za/)  |       |
-- [05_k8s管理运维平台实战前端vue后端golang](https://ke.qq.com/course/5856444)                 | [地址](https://www.bilibili.com/video/BV1QV4y1g7za/)  |       |
+- [01_k8s运维大师课程](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3598135830213973305&origin_type=604)                                | [地址](https://www.bilibili.com/video/BV11B4y1k7LB/)  |     |
+- [02_k8s-operator和crd实战开发 助你成为k8s专家](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3595280078524815572&origin_type=604)           | [地址](https://www.bilibili.com/video/BV1cv4y1371X/)  |         |
+- [03_k8s二次开发之基于真实负载的调度器](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3595143844292868583&origin_type=604)                       | [地址](https://www.bilibili.com/video/BV1qB4y1G7Kf/)  |       |
+- [04_go运维开发实战之k8s多集群自动守卫自愈组件k8s-cluster-guard](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3594937597765513838&origin_type=604) | [地址](https://www.bilibili.com/video/BV1QV4y1g7za/)  |       |
+- [05_k8s管理运维平台实战前端vue后端golang](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3596266896661552169&origin_type=604)                 | [地址](https://www.bilibili.com/video/BV1QV4y1g7za/)  |       |
 
 
 # 有golang基础的想往k8s运维开发进阶走的
 - 再k8s中的网络探测吧，作为写golang的一个小的实战项目 [06_k8s中的网络探测吧，作为写golang的一个小的实战项目](https://ke.qq.com/course/5860635)
-- [02_golang运维平台实战，服务树,日志监控，任务执行，分布式探测](https://ke.qq.com/course/4334675)             | [地址](https://www.bilibili.com/video/BV14T4y1k7oo)  |      |
+- [02_golang运维平台实战，服务树,日志监控，任务执行，分布式探测]https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3598136543119864780&origin_type=604)             | [地址](https://www.bilibili.com/video/BV14T4y1k7oo)  |      |
 
-- [01_k8s运维大师课程](https://ke.qq.com/course/5586848)                                | [地址](https://www.bilibili.com/video/BV11B4y1k7LB/)  |     |
-- [02_k8s-operator和crd实战开发 助你成为k8s专家](https://ke.qq.com/course/5458555)           | [地址](https://www.bilibili.com/video/BV1cv4y1371X/)  |         |
-- [03_k8s二次开发之基于真实负载的调度器](https://ke.qq.com/course/5814034)                       | [地址](https://www.bilibili.com/video/BV1qB4y1G7Kf/)  |       |
-- [04_go运维开发实战之k8s多集群自动守卫自愈组件k8s-cluster-guard](https://ke.qq.com/course/5925095) | [地址](https://www.bilibili.com/video/BV1QV4y1g7za/)  |       |
-- [05_k8s管理运维平台实战前端vue后端golang](https://ke.qq.com/course/5856444)                 | [地址](https://www.bilibili.com/video/BV1QV4y1g7za/)  |       |
+- [01_k8s运维大师课程](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3598135830213973305&origin_type=604)                                | [地址](https://www.bilibili.com/video/BV11B4y1k7LB/)  |     |
+- [02_k8s-operator和crd实战开发 助你成为k8s专家](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3595280078524815572&origin_type=604)           | [地址](https://www.bilibili.com/video/BV1cv4y1371X/)  |         |
+- [03_k8s二次开发之基于真实负载的调度器](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3595143844292868583&origin_type=604)                       | [地址](https://www.bilibili.com/video/BV1qB4y1G7Kf/)  |       |
+- [04_go运维开发实战之k8s多集群自动守卫自愈组件k8s-cluster-guard](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3594937597765513838&origin_type=604) | [地址](https://www.bilibili.com/video/BV1QV4y1g7za/)  |       |
+- [05_k8s管理运维平台实战前端vue后端golang](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3596266896661552169&origin_type=604)                 | [地址](https://www.bilibili.com/video/BV1QV4y1g7za/)  |       |
 
 
 
