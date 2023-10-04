@@ -1,7 +1,26 @@
-# 最新重磅课程 [持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控
-> 总目标 1000集，掌握运维平台开发不再是梦 
+# 购课交流信息 课程在抖音店铺 搜索：  小乙运维杂货铺  [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599)
+> qq群 634305681
+- ![image](./pic/qq.png)
+
+
+# 购课咨询vx `其余目的不要加`  mxy1875
+- ![image](./pic/wx.png)
+
+
+# 最新重磅课程 [持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控 [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599)
+> 总目标 1000集，掌握运维平台开发不再是梦
 > 工单模块火热开发中，购买完之后拉群
 > 发最新前后端代码，
+
+
+## 模块样例
+![image](./pic/7模块_头部打印服务树节点表示a.b.c.d前端展示.png)
+![image](./pic/7模块_资产统计.png)
+![image](./pic/12.10.jwt临期刷新问题.png)
+![image](./pic/img.png)
+![image](./pic/工单评论.png)
+![image](./pic/表单设计2.png)
+
 
 | 学习方向                                                                 | 分析进阶视频                                                                      | 备注  | 
 |----------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------|
@@ -130,7 +149,7 @@
 - [01_k8s集群调优小课程](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3594756712952942291&origin_type=604)
 - [02_k8s运维大师课程](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3598135830213973305&origin_type=604)
 
-# [面试题 k8s和golang面试真题解析 运维开发面试经验分享 linux运维进阶 ](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3600844212968499216&origin_type=604) 
+# [面试题 k8s和golang面试真题解析 运维开发面试经验分享 linux运维进阶 ](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3600844212968499216&origin_type=604)
 
 
 - ![image](https://segmentfault.com/img/bVc2zt4)
@@ -197,18 +216,18 @@
 ## 付费课程介绍
 
 1. 学完这个课程，你可以可以搭建如下架构哦
-![image](./pic/ha_arch.png)
+   ![image](./pic/ha_arch.png)
 
 2. 门课目标用户收益
-    - 一线运维人员：学习使用、熟悉配置、掌握调优、升职加薪
-        - 可以从头到尾熟悉prometheus、各种exporter、alertmanager、grafana、m3db、loki等组件的使用配置
-        - 熟悉主流exporter(中间件、存储)的告警表达式配置
-        - 同时能掌握相关组件调优的经验
-        
-    - 运维开发人员：学习高性能原理，可助⼒斩获⼤⼚监控运维开发offer
-        - 从源码级别了解prometheus高性能的设计方案
-        - 掌握二次开发相关组件的能力
-        - 了解分布式系统高可用改造方案
+   - 一线运维人员：学习使用、熟悉配置、掌握调优、升职加薪
+      - 可以从头到尾熟悉prometheus、各种exporter、alertmanager、grafana、m3db、loki等组件的使用配置
+      - 熟悉主流exporter(中间件、存储)的告警表达式配置
+      - 同时能掌握相关组件调优的经验
+
+   - 运维开发人员：学习高性能原理，可助⼒斩获⼤⼚监控运维开发offer
+      - 从源码级别了解prometheus高性能的设计方案
+      - 掌握二次开发相关组件的能力
+      - 了解分布式系统高可用改造方案
 
 
 # 02 prometheus-thanos 付费课程
@@ -223,9 +242,9 @@
 # 03 kube-prometheus和prometheus-operator付费课程
 - 课程链接 [kube-prometheus和prometheus-operator实战和原理介绍](https://ke.qq.com/course/3912017?tuin=361e95b0)
 - 截图
-![image](./kube_pic/5.png)
-![image](./kube_pic/11.png)
-![image](./kube_pic/13.png)
+  ![image](./kube_pic/5.png)
+  ![image](./kube_pic/11.png)
+  ![image](./kube_pic/13.png)
 
 ## kube-prometheus和prometheus-operator教程介绍
 - [01_kube-prometheus和prometheus-operator教程](./kube-prometheus课程.md)
