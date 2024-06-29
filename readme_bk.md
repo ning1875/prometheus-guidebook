@@ -1,41 +1,41 @@
-# k8s零基础入门运维课程
-- [k8s零基础入门运维课程，计算存储网络和常见的集群相关操作](https://ke.qq.com/course/5829699)
 
-# k8s纯源码解读教程(3个课程内容合成一个大课程)
-- [k8s底层原理和源码讲解之精华篇](https://ke.qq.com/course/4093533)
-- [k8s底层原理和源码讲解之进阶篇](https://ke.qq.com/course/4236389)
-- [k8s纯源码解读课程，助力你变成k8s专家](https://ke.qq.com/course/4697341)
+# 项目说明
+>这是一个免费的prometheus底层原理课程(当然是精简版的)
+
+> 主要介绍两大块内容，这也是大家常见的问题
+- prometheus采集k8s的原理
+- prometheus的高可用存储怎么做
+
+# 付费全方位教程
+> 如果想进一线互联网大厂从事监控运维/开发的工作(冲击35k+的月薪)
+
+> 需要更全面的了解Prometheus底层原理，并有高可用实战项⽬经验。
+
+> 可以购买下面的付费课程，
+
+- 课程链接：[prometheus全组件配置使用、底层原理解析、高可用实战](https://ke.qq.com/course/3549215?tuin=361e95b0)
+## 付费课程介绍
+
+1. 学完这个课程，你可以可以搭建如下架构哦
+![image](./pic/ha_arch.png)
+
+2. 门课目标用户收益
+    - 一线运维人员：学习使用、熟悉配置、掌握调优、升职加薪
+        - 可以从头到尾熟悉prometheus、各种exporter、alertmanager、grafana、m3db、loki等组件的使用配置
+        - 熟悉主流exporter(中间件、存储)的告警表达式配置
+        - 同时能掌握相关组件调优的经验
+        
+    - 运维开发人员：学习高性能原理，可助⼒斩获⼤⼚监控运维开发offer
+        - 从源码级别了解prometheus高性能的设计方案
+        - 掌握二次开发相关组件的能力
+        - 了解分布式系统高可用改造方案
 
 
-# k8s运维进阶调优课程
-- [k8s运维大师课程](https://ke.qq.com/course/5586848)
+# 免费课程目录导航
+- [01 prometheus采集k8s底层原理](./01_prometheus适配k8s采集.md)
+- [02 k8s监控指标讲解](./02_k8s监控指标讲解.md)
+- [03 时序监控集群存储m3db](./03_时序监控集群存储m3db.md)
+- [04 低成本multi_remote_read方案](./04_低成本multi_remote_read方案.md)
 
-# k8s管理运维平台实战
-- [k8s管理运维平台实战前端vue后端golang](https://ke.qq.com/course/5856444)
-
-
-# k8s二次开发课程
-- [k8s二次开发之基于真实负载的调度器](https://ke.qq.com/course/5814034)
-- [k8s-operator和crd实战开发 助你成为k8s专家](https://ke.qq.com/course/5458555)
-
-# cicd 课程
-- [tekton全流水线实战和pipeline运行原理源码解读](https://ke.qq.com/course/5467720)
-
-
-# prometheus全组件的教程
-- [01_prometheus零基础入门，grafana基础操作，主流exporter采集配置](https://ke.qq.com/course/5826832)
-- [02_prometheus全组件配置使用、底层原理解析、高可用实战](https://ke.qq.com/course/3549215)
-- [03_prometheus-thanos使用和源码解读](https://ke.qq.com/course/3883439)
-- [04_kube-prometheus和prometheus-operator实战和原理介绍](https://ke.qq.com/course/3912017)
-- [05_prometheus源码讲解和二次开发](https://ke.qq.com/course/4236995)
-- [06_prometheus监控k8s的实战配置和原理讲解，写go项目暴露业务指标](https://ke.qq.com/course/5837369)
-
-# go语言课程
-- [golang基础课程](https://ke.qq.com/course/4334898)
-- [golang实战课，一天编写一个任务执行系统，客户端和服务端架构](https://ke.qq.com/course/3550865)
-- [golang运维开发项目之k8s网络探测实战](https://ke.qq.com/course/5860635)
-- [golang运维平台实战，服务树,日志监控，任务执行，分布式探测](https://ke.qq.com/course/4334675)
-- [golang运维开发实战课程之k8s巡检平台](https://ke.qq.com/course/5818923)
-
-# 直播答疑sre职业发展规划
-- [k8s-prometheus课程答疑和运维开发职业发展规划](https://ke.qq.com/course/5506477)
+## 免费课程链接
+- 链接：[prometheus为了适配k8s监控的改造，高可用时序监控存储实战](https://ke.qq.com/course/3517990?taid=12068265399791142&tuin=361e95b0)
