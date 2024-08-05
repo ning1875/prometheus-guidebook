@@ -1,3 +1,63 @@
+# 主推课程购课链接和介绍视频
+
+
+
+# 【新课程】aiInfra大模型aiOnK8s-gpu训练-volcano调度-cilium-ebpf源码解析
+- ![image](./pic/课程卖点/卖点-aiInfra-大模型-aiOnK8s-gpu-离线训练-volcano调度.png)
+
+> 新课程gpu和ebpf课程涉及开源项目的源码解读
+ ![img.png](pic/gpu和ebpf课程涉及开源项目的源码解读.png)
+
+> 购买链接
+
+
+基于k8s-thanos的Prometheus监控实战-调优-源码解读-二次开发
+
+| 开发类型                                                                   | k8s的扩展点                                                                                                                                                             | 效果演示或简介                                                 | 学成后的结果                                                                      |
+|------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------------------------|
+| 【新课程】aiInfra大模型aiOnK8s-gpu训练-volcano调度-cilium-ebpf源码解析                 | [ 【新课程】aiInfra大模型aiOnK8s-gpu训练-volcano调度-cilium-ebpf源码解析 ](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3696623728575250607&origin_type=604)  | [效果演示或简介](https://www.bilibili.com/video/BV1kT42167d2) | 赶上大模型 ai-gpu训练的风口，末班车                                                       |  
+| 【新课程】基于k8s-thanos的Prometheus监控实战-调优-源码解读-二次开发                          | [ 【新课程】基于k8s-thanos的Prometheus监控实战-调优-源码解读-二次开发](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3698145454832353583&origin_type=604)  | [效果演示或简介](https://www.bilibili.com/video/BV1KVvCe2Evu/) | k8s prometheus-operator监控 thanos<br/>                                            |  
+| 【持续更新】8模块大运维平台开发-go-vue-k8s-cicd-服务树-监控-数据库 <br/> web白屏+抽象k8s应用+整合cicd | [11_【持续更新】8模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599&origin_type=604)                | [效果演示或简介](https://www.bilibili.com/video/BV1BG411B7Qr/) | vue3.0<br/>k8s-client-go使用<br/>抽象k8s对象<br/>打通cicd灰度发布                       |  
+| 1对1 私有解决方案，不限问题，自由答疑，带你写代码分析问题                                         | [ 【VIP1对1视频直播连麦】解决你真实工作问题 带你开发并提供源码 自由提问 手把手带你学习进步 ](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3690461008750576095&origin_type=604)        | https://www.bilibili.com/video/BV1Us421T77a/            | https://www.bilibili.com/video/BV1QH4y1V7pY                                 |  
+| 在线离线混部-潮汐调度开发-k8s大集群资源利用率提升                                            | [ 【第8模块】数据库管理平台【mysqlOnK8s】【主从 备份 读写】 ](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3686654675488211174&origin_type=604)                     | https://www.bilibili.com/video/BV17E4m1R7Ym/            | https://www.bilibili.com/video/BV1QH4y1V7pY                                 |  
+| 在线离线混部-潮汐调度开发-k8s大集群资源利用率提升                                            | [ 【持续更新】在线离线混部-潮汐调度开发-k8s大集群资源利用率提升 ](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3680148583925023059&origin_type=604)                       | [效果演示或简介](https://www.bilibili.com/video/BV13H4y1p7p6/) | https://www.bilibili.com/video/BV1QH4y1V7pY                                 |  
+| 实战问题+源码解读+二次开发                                                         | [01_【持续更新】从实际问题入手 k8s新源码解读 丰富的实验+开发样例 ](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3669946874917421381&origin_type=604)                     | [效果演示或简介](https://www.bilibili.com/video/BV13H4y1p7p6/) | containerd<br/>calico源码                                                     |  
+| k8s主要组件源码解读                                                            | [02_k8s全组件源码讲解和底层原理分析三合一 助力你成为k8s专家](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3595279694125268143&origin_type=604)                        | [效果演示或简介](https://www.bilibili.com/video/BV1XJ4m1W7Wr/) | 组件源码                                                                        |  
+| Daemonset开发                                                            | [03_k8s中的网络探测吧，作为写golang的一个小的实战项目](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3594920679889365281&origin_type=604)                          | [效果演示或简介](https://www.bilibili.com/video/BV1mt4y1K71G/) | Prometheus-exporter开发<br/>golang-cs架构开发<br/>网络探测                            |
+| ingress集群网关                                                            | [04_ingress_k8s流量网关 apisix 高级运维开发课程](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3624109749701883834&origin_type=604)                        | [效果演示或简介](https://www.bilibili.com/video/BV1qB4y1G7Kf/) | ingress和apisix使用<br/>ingress-nginx控制器源码<br/>apisix二开<br/>用go开发自己的ingress控制器 |
+| webhook                                                                | [05_k8s-webhook动态准入源码解读和实战运维开发课程](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3668080939218633019&origin_type=604)                           | [效果演示或简介](https://www.bilibili.com/video/BV1Tx421f7Hw/) | 8个k8s-webhook开发实战案例<br/>tls证书更新问题                                           |
+| 调度器扩展                                                                  | [06_k8s二次开发之基于真实负载的调度器](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3595143844292868583&origin_type=604)                                     | [效果演示或简介](https://www.bilibili.com/video/BV1qB4y1G7Kf/) | PrometheusSdk使用<br/>k8s调度框架源码理解<br/>真实负载和集群利用率                              |
+| 多集群管理 故障自愈                                                             | [07_go运维开发实战之k8s多集群自动守卫自愈组件k8s-cluster-guard](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3594937597765513838&origin_type=604)               | [效果演示或简介](https://www.bilibili.com/video/BV1QV4y1g7za/) | 多集群管理<br/>常见k8s集群问题和自愈手段                                                    |  
+| operator开发                                                             | [08_k8s-operator和crd实战开发 助你成为k8s专家](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3595280078524815572&origin_type=604)                         | [效果演示或简介](https://www.bilibili.com/video/BV1cv4y1371X/) | kube-builder使用<br/>基于informer的调谐<br/>workQueue使用                            |
+| 企业级实战问题开发                                                              | [09_k8s运维大师课程](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3598135830213973305&origin_type=604)                                              | [效果演示或简介](https://www.bilibili.com/video/BV11B4y1k7LB/) | k8s生产集群企业级调优方案<br/>10个k8s中实战运维开发项目                                          |
+| web白屏操作(简单)                                                            | [10_k8s管理运维平台实战前端vue后端golang](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3596266896661552169&origin_type=604)                               | [效果演示或简介](https://www.bilibili.com/video/BV1QV4y1g7za/) | vue2.0<br/>k8s-client-go使用<br/>web平台化                                       |  
+| web白屏+抽象k8s应用+整合cicd                                                   | [11_【持续更新】7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599&origin_type=604)                | [效果演示或简介](https://www.bilibili.com/video/BV1BG411B7Qr/) | vue3.0<br/>k8s-client-go使用<br/>抽象k8s对象<br/>打通cicd灰度发布                       |  
+
+
+
+
+
+
+# 【给k8s和go开发新手的】推荐几个运维golang运维开发练手项目
+
+| 课程名称                                                                                                                                                                                           | 推荐理由                                                                                 | 介绍视频                                                                    |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| [【小乙老师强烈推荐的 运维开发年轻人的第一个golang实战练手项目 使用cs架构编写一个k8s中的网络探测daemonset-1】 ](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3594920679889365281&origin_type=605&pd_hide_footer=1) | 200多块钱的超值golang运维开发小课程<br/>cs架构 prometheus exporter 开发<br/>还有daemonset 这价格这内容还要啥自行车  | https://b23.tv/xk5Ycad                                                  |
+| [ 【小乙老师给k8s运维强烈推荐的k8s网关运维平台高级课程 apisix ingress实战和源码解读课程】](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3624109749701883834&origin_type=605&pd_hide_footer=1)             | k8s运维必须会维护ingress-nginx/apisix等网关<br/>实战网关配置调优<br/>源码解读<br/>还会用golang实现自己的ingress控制器 | https://b23.tv/AOxAr3q <br/>https://www.bilibili.com/video/BV1RN41167Df |
+| [【k8s运维开发必备】 webhook在k8s运维开发中的重要性-哔哩哔哩】](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3668080939218633019&origin_type=605&pd_hide_footer=1)                              | 难度低，有hook框架，适合刚学会go想做k8s运维开发新手<br/>10个实战webhook案例帮助你了解k8s开发思路<br/> 日常k8s运维必备技能       | https://b23.tv/PVL0nUL <br/> https://b23.tv/lMctMxK                     |                                                 |
+
+
+
+
+# k8s在离混布-抄袭调度-动态感知高级运维开发效果图
+
+![image](./pic/k8s在离混布-抄袭调度-动态感知高级运维开发效果图.png)
+![image](./pic/课程卖点/卖点-k8s在离混部-潮汐调度golang开发实战.png)
+
+> 购买链接 点击下面这个
+- [ 【持续更新】在线离线混部-潮汐调度开发-k8s大集群资源利用率提升 ](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3680148583925023059&origin_type=604)
+
+
 
 #  <font color=red>【新课程】【VIP1对1视频直播连麦】解决你真实工作问题 带你开发并提供源码 自由提问 手把手带你学习进步 </font>
 > 购买链接
@@ -42,7 +102,7 @@
 
 > 如何购买
 - 课程在抖音店铺: 使用你常用的抖音账号登陆购买
-- [点击这个链接购买：[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599)
+- [点击这个链接购买：[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599&origin_type=604)
 
 > 购买完如何观看
 
@@ -59,39 +119,39 @@
 
 | 购课链接                                                                                                                              | 分析进阶视频                                                                                                                    | 
 |-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599) | [目标1000集[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控价格优惠](https://www.bilibili.com/video/BV1ku411T7pB)                         |
-| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599) | [【golang-vue3-7模块大运维平台视频突破800集了-目标1500进发 37张mysql表】](https://www.bilibili.com/video/BV1WQ4y1b7fD)                         |
-| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599) | [[【突破900集 模块5Prometheus监控已完成 12个页面 15张db表 3万行后端golang代码 k8s火热开发中 等你来解锁-1】 ](https://www.bilibili.com/video/BV1gC4y1y7Qf)  |
-| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599) | [【第281期 当年定下的目标 7模块golang大运维平台1500集目标已实现 世上无难事只怕有心人 有志青年速来购买 即将第二次涨价】](https://www.bilibili.com/video/BV1bA4m1V7XL)       |  
-| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599) | [【第271期 从golang代码go-mod引用外部依赖库之多 来说明下7模块go大运维平台课程有多么丰富 一劳永逸解决你的运维平台开发问题-1】 ](https://www.bilibili.com/video/BV1j2421c7ac) |  
+| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599&origin_type=604) | [目标1000集[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控价格优惠](https://www.bilibili.com/video/BV1ku411T7pB)                         |
+| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599&origin_type=604) | [【golang-vue3-7模块大运维平台视频突破800集了-目标1500进发 37张mysql表】](https://www.bilibili.com/video/BV1WQ4y1b7fD)                         |
+| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599&origin_type=604) | [[【突破900集 模块5Prometheus监控已完成 12个页面 15张db表 3万行后端golang代码 k8s火热开发中 等你来解锁-1】 ](https://www.bilibili.com/video/BV1gC4y1y7Qf)  |
+| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599&origin_type=604) | [【第281期 当年定下的目标 7模块golang大运维平台1500集目标已实现 世上无难事只怕有心人 有志青年速来购买 即将第二次涨价】](https://www.bilibili.com/video/BV1bA4m1V7XL)       |  
+| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599&origin_type=604) | [【第271期 从golang代码go-mod引用外部依赖库之多 来说明下7模块go大运维平台课程有多么丰富 一劳永逸解决你的运维平台开发问题-1】 ](https://www.bilibili.com/video/BV1j2421c7ac) |  
 
 
-#    [点击这个链接购买：[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599)
+#    [点击这个链接购买：[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599&origin_type=604)
 
 
 > 7模成果样例
 
 | 购课链接                                                                                                                              | 分析进阶视频                                                                                                                               | 
 |-----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599) | [模块01 基础底座](https://www.bilibili.com/video/BV16F411r7aP/)                                                                            |  
-| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599) | [模块02 服务树和cmdb 解绑ecs资源 - 1of3](https://www.bilibili.com/video/BV1wK4y1w7b6/)                                                         |  
-| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599) | [模块02 服务树echarts资产统计](https://www.bilibili.com/video/BV1sj41187tQ/)                                                                  |  
-| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599) | [模块03 工单审批流和表单设计器](https://www.bilibili.com/video/BV1V8411y7Aw/)                                                                     |  
-| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599) | [模块04-grpc-agent和任务执行中心演示01](https://www.bilibili.com/video/BV1qw411X74d/)                                                           |
-| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599) | [模块05-prometheus平台 【突破900集 模块5Prometheus监控已完成 12个页面 15张db表 3万行后端golang代码 k8s火热开发中 等你来解锁-1】 ](https://www.bilibili.com/video/BV1gC4y1y7Qf) |
-| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599) | [模块05-prometheus平台【第251期 开发Prometheus运维监控平台都有哪8个核心资源 为什么要用池来管理alertmanager和采集器】](https://www.bilibili.com/video/BV1TN4y1m7pZ)                        |
-| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599) | [模块05-prometheus平台【【开发Webhook告警处理模块】为何要构建SendGroup的cache】](https://www.bilibili.com/video/BV1Jw411T7bv)|
-| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599) | [模块05-prometheus平台【如何使用golang去管理Prometheus和alertmanager构建监控平台-1】 ](https://www.bilibili.com/video/BV1E94y137Ge)|
-| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599) | [模块06-k8s【k8s模块运维开发之容器日志 02 解决tailLog的问题】](https://www.bilibili.com/video/BV1kN411V7fJ)|
-| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599) | [模块06-k8s【golang运维开发写k8s多集群管理平台 为什么要面向2种人群  权限和功能有什么实现思路】 ](https://www.bilibili.com/video/BV1BG411B7Qr)                               |
-| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599) | [模块06-k8s【第260期  用go开发运维平台之k8s模块开发过半了 给你们看看部分截图效果 坚持做一件事总会有收获 你还在犹豫吗 有志青年速来】 ](https://www.bilibili.com/video/BV1XN4y147ph)            |
-| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599) | [模块07-cicd【【7模块golang大运维平台开发】cicd流水线对接k8s接口失败了 看看运维专家如何解决】 ]( https://www.bilibili.com/video/BV1L2421c75L)                             |
-| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599) | [模块07-cicd【7模块golang大运维平台 cicd模块完整的cicd流水线go代码-ci检测-harbor镜像-k8s-app展示 - 1of3】 ](https://www.bilibili.com/video/BV16e411n7H3)          |
-| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599) | [模块07-cicd【第282期 运维专家必备go运维开发之cicd模块结合k8s和服务树实现容器灰度发布】 ](https://www.bilibili.com/video/BV11C411s7Ro)                                  |
+| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599&origin_type=604) | [模块01 基础底座](https://www.bilibili.com/video/BV16F411r7aP/)                                                                            |  
+| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599&origin_type=604) | [模块02 服务树和cmdb 解绑ecs资源 - 1of3](https://www.bilibili.com/video/BV1wK4y1w7b6/)                                                         |  
+| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599&origin_type=604) | [模块02 服务树echarts资产统计](https://www.bilibili.com/video/BV1sj41187tQ/)                                                                  |  
+| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599&origin_type=604) | [模块03 工单审批流和表单设计器](https://www.bilibili.com/video/BV1V8411y7Aw/)                                                                     |  
+| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599&origin_type=604) | [模块04-grpc-agent和任务执行中心演示01](https://www.bilibili.com/video/BV1qw411X74d/)                                                           |
+| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599&origin_type=604) | [模块05-prometheus平台 【突破900集 模块5Prometheus监控已完成 12个页面 15张db表 3万行后端golang代码 k8s火热开发中 等你来解锁-1】 ](https://www.bilibili.com/video/BV1gC4y1y7Qf) |
+| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599&origin_type=604) | [模块05-prometheus平台【第251期 开发Prometheus运维监控平台都有哪8个核心资源 为什么要用池来管理alertmanager和采集器】](https://www.bilibili.com/video/BV1TN4y1m7pZ)                        |
+| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599&origin_type=604) | [模块05-prometheus平台【【开发Webhook告警处理模块】为何要构建SendGroup的cache】](https://www.bilibili.com/video/BV1Jw411T7bv)|
+| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599&origin_type=604) | [模块05-prometheus平台【如何使用golang去管理Prometheus和alertmanager构建监控平台-1】 ](https://www.bilibili.com/video/BV1E94y137Ge)|
+| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599&origin_type=604) | [模块06-k8s【k8s模块运维开发之容器日志 02 解决tailLog的问题】](https://www.bilibili.com/video/BV1kN411V7fJ)|
+| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599&origin_type=604) | [模块06-k8s【golang运维开发写k8s多集群管理平台 为什么要面向2种人群  权限和功能有什么实现思路】 ](https://www.bilibili.com/video/BV1BG411B7Qr)                               |
+| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599&origin_type=604) | [模块06-k8s【第260期  用go开发运维平台之k8s模块开发过半了 给你们看看部分截图效果 坚持做一件事总会有收获 你还在犹豫吗 有志青年速来】 ](https://www.bilibili.com/video/BV1XN4y147ph)            |
+| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599&origin_type=604) | [模块07-cicd【【7模块golang大运维平台开发】cicd流水线对接k8s接口失败了 看看运维专家如何解决】 ]( https://www.bilibili.com/video/BV1L2421c75L)                             |
+| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599&origin_type=604) | [模块07-cicd【7模块golang大运维平台 cicd模块完整的cicd流水线go代码-ci检测-harbor镜像-k8s-app展示 - 1of3】 ](https://www.bilibili.com/video/BV16e411n7H3)          |
+| [[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599&origin_type=604) | [模块07-cicd【第282期 运维专家必备go运维开发之cicd模块结合k8s和服务树实现容器灰度发布】 ](https://www.bilibili.com/video/BV11C411s7Ro)                                  |
 
 > 如何购买
 - 课程在抖音店铺: 使用你常用的抖音账号登陆购买
-- [点击这个链接购买：[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599)
+- [点击这个链接购买：[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599&origin_type=604)
 
 
 ## 代码行数统计和购课前置技能
@@ -109,7 +169,7 @@
 ![image](./pic/7模块_资产统计.png)
 ![image](./pic/7模块_头部打印服务树节点表示a.b.c.d前端展示.png)
 
-###    [点击这个链接购买：[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599)
+###    [点击这个链接购买：[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599&origin_type=604)
 
 ### 7模块大运维平台截图之 【模块3-工单】
 ![image](./pic/工单评论.png)
@@ -131,7 +191,7 @@
 ![image](./pic/k8s采集.png)
 ![image](./pic/http服务发现标签.png)
 
-###    [点击这个链接购买：[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599)
+###    [点击这个链接购买：[持续更新]7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599&origin_type=604)
 
 
 ### 7模块大运维平台截图之 【模块6-k8s-容器日志】
@@ -188,7 +248,35 @@
 | operator开发           | [08_k8s-operator和crd实战开发 助你成为k8s专家](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3595280078524815572&origin_type=604)           | [效果演示或简介](https://www.bilibili.com/video/BV1cv4y1371X/)           | kube-builder使用<br/>基于informer的调谐<br/>workQueue使用                            |
 | 企业级实战问题开发            | [09_k8s运维大师课程](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3598135830213973305&origin_type=604)                                | [效果演示或简介](https://www.bilibili.com/video/BV11B4y1k7LB/)  | k8s生产集群企业级调优方案<br/>10个k8s中实战运维开发项目                                          |
 | web白屏操作(简单)          | [10_k8s管理运维平台实战前端vue后端golang](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3596266896661552169&origin_type=604)                 | [效果演示或简介](https://www.bilibili.com/video/BV1QV4y1g7za/)  | vue2.0<br/>k8s-client-go使用<br/>web平台化                                       |  
-| web白屏+抽象k8s应用+整合cicd | [11_【持续更新】7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599)                  | [效果演示或简介](https://www.bilibili.com/video/BV1BG411B7Qr/)  | vue3.0<br/>k8s-client-go使用<br/>抽象k8s对象<br/>打通cicd灰度发布                       |  
+| web白屏+抽象k8s应用+整合cicd | [11_【持续更新】7模块大运维平台开发-go-vue-k8s-cicd-服务树-监控](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641191333189820599&origin_type=604)                  | [效果演示或简介](https://www.bilibili.com/video/BV1BG411B7Qr/)  | vue3.0<br/>k8s-client-go使用<br/>抽象k8s对象<br/>打通cicd灰度发布                       |  
+
+课程名称: aiInfra大模型aiOnK8s-gpu训练-volcano调度-cilium-ebpf源码解析, 课程ID: 7393248994333301043
+
+
+# 【新课程】aiInfra大模型aiOnK8s-gpu训练-volcano调度-cilium-ebpf源码解析
+- ![image](./pic/课程卖点/卖点-aiInfra-大模型-aiOnK8s-gpu-离线训练-volcano调度.png)
+
+
+> 购买链接
+- [ 【新课程】aiInfra大模型aiOnK8s-gpu训练-volcano调度-cilium-ebpf源码解析 ](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3696623728575250607&origin_type=604)
+
+- ![image](./pic/gpu新品榜单.png)
+
+
+> 课程卖点 ：大模型风口下面为数不多 运维能喝的汤
+- ![image](./pic/gpu课程规划.png)
+
+# 【新课程】 基于k8s-thanos的Prometheus监控实战-调优-源码解读-二次开发
+
+> 课程卖点 ：
+- ![iage](./pic/课程卖点/卖点-thanos.png)
+- ![iage](./pic/thanos卖点.png)
+
+
+
+## 购买连接
+https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3698145454832353583&origin_type=604
+
 
 
 # 【新课程】【第8模块】数据库管理平台【mysqlOnK8s】【主从 备份 读写】
@@ -214,6 +302,7 @@
 
 > 课程卖点
 - ![image](./pic/在离混部卖点.png)
+- ![image](./pic/课程卖点/卖点-k8s在离混部-潮汐调度golang开发实战.png)
 
 
 
@@ -238,6 +327,7 @@
 
 > 课程卖点
 - ![image](./pic/新源码解读卖点pic/img_6.png)
+- ![image](./pic/课程卖点/卖点-新源码解读.png)
 
 > 截图效果
 - ![image](./pic/new/k8s源码-new.png)
